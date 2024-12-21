@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+#conda activate streamlitenv
+#streamlitenv run app.py
+#conda install python-duckdb -c conda-forge
 
 # 1. st.write 와 st.title 의 기능 
 st.write("1. As you can see, it is possible to write text above title.")
